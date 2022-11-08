@@ -1,0 +1,5 @@
+Yandong Ji is a visiting researcher at MIT, where he works on
+computer vision and machine learning. He received an MEng in Mechnical Engineering
+from the University of California, Berkeley in 2022, where he was advised by
+Koushil Sreenath, and he received a BSc in Intelligent Science and Technology from the
+Nankai University in 2021. 
